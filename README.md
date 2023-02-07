@@ -2,7 +2,7 @@
 
 ### 🕹️ Indie Game Developer.
 ### 🖥️ I’m studying Computer and systems engineering.
-
+### 🎮 2 Games published on Google Play!
 
 
 <div align="left">
