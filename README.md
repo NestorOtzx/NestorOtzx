@@ -4,6 +4,10 @@
 ### 🖥️ I’m studying Computer and systems engineering.
 ### 🎮 2 Games published on Google Play!
 
+### ✏️ Hazard School:
+## https://play.google.com/store/apps/details?id=com.NestorGameDev.HazardSchool
+### 🟥 Zappy Shapes!:
+## https://play.google.com/store/apps/details?id=com.NestorDev.ZappyShapes
 
 <div align="left">
   <a href="https://github.com/nestorotz">
