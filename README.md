@@ -2,12 +2,10 @@
 
 ### 🕹️ Indie Game Developer.
 ### 🖥️ I’m studying Computer and systems engineering.
-### 🎮 2 Games published on Google Play!
+### 🎮 1 Game published on Google Play and Steam!
 
-## ✏️ Hazard School (+10K downloads!!):
+## ✏️ Hazard School (+50K downloads!!):
 ### https://play.google.com/store/apps/details?id=com.NestorGameDev.HazardSchool
-## 🟥 Zappy Shapes! (+100 downloads!):
-### https://play.google.com/store/apps/details?id=com.NestorDev.ZappyShapes
 
 <div align="left">
   <a href="https://github.com/nestorotz">
